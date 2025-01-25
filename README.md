@@ -1,5 +1,5 @@
-# CRUD_Application
-<h2>🧑‍💻<h2>
+<h2>#CRUD Application</h2>
+<h3>🧑‍💻<h3>
 <h3>CRUD APPLICATION USING JAVA SPRING BOOT + HIBERNATE👋</h3>
 <h4>REST API</h4>
 ⚛️ This Application Contains All the CRUD Operations  <br/>
